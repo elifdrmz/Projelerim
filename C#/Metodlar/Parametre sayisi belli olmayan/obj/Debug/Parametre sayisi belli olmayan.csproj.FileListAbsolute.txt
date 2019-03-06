@@ -1,0 +1,6 @@
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\10.01.2019\Parametre sayisi belli olmayan\bin\Debug\Parametre sayisi belli olmayan.exe.config
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\10.01.2019\Parametre sayisi belli olmayan\bin\Debug\Parametre sayisi belli olmayan.exe
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\10.01.2019\Parametre sayisi belli olmayan\bin\Debug\Parametre sayisi belli olmayan.pdb
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\10.01.2019\Parametre sayisi belli olmayan\obj\Debug\Parametre sayisi belli olmayan.csprojResolveAssemblyReference.cache
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\10.01.2019\Parametre sayisi belli olmayan\obj\Debug\Parametre sayisi belli olmayan.exe
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\10.01.2019\Parametre sayisi belli olmayan\obj\Debug\Parametre sayisi belli olmayan.pdb

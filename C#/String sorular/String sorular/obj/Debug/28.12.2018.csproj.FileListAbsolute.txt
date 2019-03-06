@@ -1,0 +1,6 @@
+c:\users\elif.durmaz\documents\visual studio 2015\Projects\28.12.2018\28.12.2018\bin\Debug\28.12.2018.exe.config
+c:\users\elif.durmaz\documents\visual studio 2015\Projects\28.12.2018\28.12.2018\bin\Debug\28.12.2018.exe
+c:\users\elif.durmaz\documents\visual studio 2015\Projects\28.12.2018\28.12.2018\bin\Debug\28.12.2018.pdb
+c:\users\elif.durmaz\documents\visual studio 2015\Projects\28.12.2018\28.12.2018\obj\Debug\28.12.2018.csprojResolveAssemblyReference.cache
+c:\users\elif.durmaz\documents\visual studio 2015\Projects\28.12.2018\28.12.2018\obj\Debug\28.12.2018.exe
+c:\users\elif.durmaz\documents\visual studio 2015\Projects\28.12.2018\28.12.2018\obj\Debug\28.12.2018.pdb

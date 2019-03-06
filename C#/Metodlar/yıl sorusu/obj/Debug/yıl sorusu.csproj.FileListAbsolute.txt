@@ -1,0 +1,6 @@
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\10.01.2019\yıl sorusu\bin\Debug\yıl sorusu.exe.config
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\10.01.2019\yıl sorusu\bin\Debug\yıl sorusu.exe
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\10.01.2019\yıl sorusu\bin\Debug\yıl sorusu.pdb
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\10.01.2019\yıl sorusu\obj\Debug\yıl sorusu.csprojResolveAssemblyReference.cache
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\10.01.2019\yıl sorusu\obj\Debug\yıl sorusu.exe
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\10.01.2019\yıl sorusu\obj\Debug\yıl sorusu.pdb

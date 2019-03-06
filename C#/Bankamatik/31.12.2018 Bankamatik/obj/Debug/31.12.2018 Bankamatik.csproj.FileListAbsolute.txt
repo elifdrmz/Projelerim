@@ -1,0 +1,6 @@
+c:\users\elif.durmaz\documents\visual studio 2015\Projects\31.12.2018 Bankamatik\31.12.2018 Bankamatik\bin\Debug\31.12.2018 Bankamatik.exe.config
+c:\users\elif.durmaz\documents\visual studio 2015\Projects\31.12.2018 Bankamatik\31.12.2018 Bankamatik\bin\Debug\31.12.2018 Bankamatik.exe
+c:\users\elif.durmaz\documents\visual studio 2015\Projects\31.12.2018 Bankamatik\31.12.2018 Bankamatik\bin\Debug\31.12.2018 Bankamatik.pdb
+c:\users\elif.durmaz\documents\visual studio 2015\Projects\31.12.2018 Bankamatik\31.12.2018 Bankamatik\obj\Debug\31.12.2018 Bankamatik.csprojResolveAssemblyReference.cache
+c:\users\elif.durmaz\documents\visual studio 2015\Projects\31.12.2018 Bankamatik\31.12.2018 Bankamatik\obj\Debug\31.12.2018 Bankamatik.exe
+c:\users\elif.durmaz\documents\visual studio 2015\Projects\31.12.2018 Bankamatik\31.12.2018 Bankamatik\obj\Debug\31.12.2018 Bankamatik.pdb

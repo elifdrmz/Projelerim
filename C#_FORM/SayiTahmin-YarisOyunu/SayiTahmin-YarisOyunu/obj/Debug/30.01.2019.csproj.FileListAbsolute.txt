@@ -1,0 +1,23 @@
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\30.01.2019\30.01.2019\bin\Debug\30.01.2019.exe.config
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\30.01.2019\30.01.2019\bin\Debug\30.01.2019.exe
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\30.01.2019\30.01.2019\bin\Debug\30.01.2019.pdb
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\30.01.2019\30.01.2019\obj\Debug\30.01.2019.csprojResolveAssemblyReference.cache
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\30.01.2019\30.01.2019\obj\Debug\_30._01._2019.Form1.resources
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\30.01.2019\30.01.2019\obj\Debug\_30._01._2019.Properties.Resources.resources
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\30.01.2019\30.01.2019\obj\Debug\30.01.2019.csproj.GenerateResource.Cache
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\30.01.2019\30.01.2019\obj\Debug\30.01.2019.exe
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\30.01.2019\30.01.2019\obj\Debug\30.01.2019.pdb
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\30.01.2019\30.01.2019\obj\Debug\_30._01._2019.Form2.resources
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\30.01.2019\30.01.2019\obj\Debug\_30._01._2019.Form3.resources
+D:\YAZILIM KURSU\smartpro part2\benim yaptığım uyg\30.01.2019\30.01.2019\bin\Debug\30.01.2019.exe.config
+D:\YAZILIM KURSU\smartpro part2\benim yaptığım uyg\30.01.2019\30.01.2019\bin\Debug\30.01.2019.exe
+D:\YAZILIM KURSU\smartpro part2\benim yaptığım uyg\30.01.2019\30.01.2019\bin\Debug\30.01.2019.pdb
+D:\YAZILIM KURSU\smartpro part2\benim yaptığım uyg\30.01.2019\30.01.2019\obj\Debug\30.01.2019.csprojAssemblyReference.cache
+D:\YAZILIM KURSU\smartpro part2\benim yaptığım uyg\30.01.2019\30.01.2019\obj\Debug\_30._01._2019.Form1.resources
+D:\YAZILIM KURSU\smartpro part2\benim yaptığım uyg\30.01.2019\30.01.2019\obj\Debug\_30._01._2019.Form2.resources
+D:\YAZILIM KURSU\smartpro part2\benim yaptığım uyg\30.01.2019\30.01.2019\obj\Debug\_30._01._2019.Form3.resources
+D:\YAZILIM KURSU\smartpro part2\benim yaptığım uyg\30.01.2019\30.01.2019\obj\Debug\_30._01._2019.Properties.Resources.resources
+D:\YAZILIM KURSU\smartpro part2\benim yaptığım uyg\30.01.2019\30.01.2019\obj\Debug\30.01.2019.csproj.GenerateResource.cache
+D:\YAZILIM KURSU\smartpro part2\benim yaptığım uyg\30.01.2019\30.01.2019\obj\Debug\30.01.2019.csproj.CoreCompileInputs.cache
+D:\YAZILIM KURSU\smartpro part2\benim yaptığım uyg\30.01.2019\30.01.2019\obj\Debug\30.01.2019.exe
+D:\YAZILIM KURSU\smartpro part2\benim yaptığım uyg\30.01.2019\30.01.2019\obj\Debug\30.01.2019.pdb

@@ -1,0 +1,6 @@
+c:\users\elif.durmaz\documents\visual studio 2015\Projects\2018_12_18_ondaliklisayilar\2018-12-18-BooleanTuru\bin\Debug\2018-12-18-BooleanTuru.exe.config
+c:\users\elif.durmaz\documents\visual studio 2015\Projects\2018_12_18_ondaliklisayilar\2018-12-18-BooleanTuru\bin\Debug\2018-12-18-BooleanTuru.exe
+c:\users\elif.durmaz\documents\visual studio 2015\Projects\2018_12_18_ondaliklisayilar\2018-12-18-BooleanTuru\bin\Debug\2018-12-18-BooleanTuru.pdb
+c:\users\elif.durmaz\documents\visual studio 2015\Projects\2018_12_18_ondaliklisayilar\2018-12-18-BooleanTuru\obj\Debug\2018-12-18-BooleanTuru.exe
+c:\users\elif.durmaz\documents\visual studio 2015\Projects\2018_12_18_ondaliklisayilar\2018-12-18-BooleanTuru\obj\Debug\2018-12-18-BooleanTuru.pdb
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\2018_12_18_ondaliklisayilar\2018-12-18-BooleanTuru\obj\Debug\2018-12-18-BooleanTuru.csprojResolveAssemblyReference.cache

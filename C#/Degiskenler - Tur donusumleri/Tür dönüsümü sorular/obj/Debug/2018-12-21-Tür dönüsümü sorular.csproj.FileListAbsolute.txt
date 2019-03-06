@@ -1,0 +1,6 @@
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\17- .2018 uygulamalar\2018-12-21-Tür dönüsümü sorular\bin\Debug\2018-12-21-Tür dönüsümü sorular.exe.config
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\17- .2018 uygulamalar\2018-12-21-Tür dönüsümü sorular\bin\Debug\2018-12-21-Tür dönüsümü sorular.exe
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\17- .2018 uygulamalar\2018-12-21-Tür dönüsümü sorular\bin\Debug\2018-12-21-Tür dönüsümü sorular.pdb
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\17- .2018 uygulamalar\2018-12-21-Tür dönüsümü sorular\obj\Debug\2018-12-21-Tür dönüsümü sorular.csprojResolveAssemblyReference.cache
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\17- .2018 uygulamalar\2018-12-21-Tür dönüsümü sorular\obj\Debug\2018-12-21-Tür dönüsümü sorular.exe
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\17- .2018 uygulamalar\2018-12-21-Tür dönüsümü sorular\obj\Debug\2018-12-21-Tür dönüsümü sorular.pdb

@@ -1,0 +1,6 @@
+c:\users\elif.durmaz\documents\visual studio 2015\Projects\04.01.2019\string metodlari\bin\Debug\string metodlari.exe.config
+c:\users\elif.durmaz\documents\visual studio 2015\Projects\04.01.2019\string metodlari\bin\Debug\string metodlari.exe
+c:\users\elif.durmaz\documents\visual studio 2015\Projects\04.01.2019\string metodlari\bin\Debug\string metodlari.pdb
+c:\users\elif.durmaz\documents\visual studio 2015\Projects\04.01.2019\string metodlari\obj\Debug\string metodlari.csprojResolveAssemblyReference.cache
+c:\users\elif.durmaz\documents\visual studio 2015\Projects\04.01.2019\string metodlari\obj\Debug\string metodlari.exe
+c:\users\elif.durmaz\documents\visual studio 2015\Projects\04.01.2019\string metodlari\obj\Debug\string metodlari.pdb

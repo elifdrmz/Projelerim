@@ -1,0 +1,9 @@
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\formdaSQL_kullanımı_P1\formdaSQL_kullanımı_P1\bin\Debug\formdaSQL_kullanımı_P1.exe.config
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\formdaSQL_kullanımı_P1\formdaSQL_kullanımı_P1\bin\Debug\formdaSQL_kullanımı_P1.exe
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\formdaSQL_kullanımı_P1\formdaSQL_kullanımı_P1\bin\Debug\formdaSQL_kullanımı_P1.pdb
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\formdaSQL_kullanımı_P1\formdaSQL_kullanımı_P1\obj\Debug\formdaSQL_kullanımı_P1.csprojResolveAssemblyReference.cache
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\formdaSQL_kullanımı_P1\formdaSQL_kullanımı_P1\obj\Debug\formdaSQL_kullanımı_P1.Form1.resources
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\formdaSQL_kullanımı_P1\formdaSQL_kullanımı_P1\obj\Debug\formdaSQL_kullanımı_P1.Properties.Resources.resources
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\formdaSQL_kullanımı_P1\formdaSQL_kullanımı_P1\obj\Debug\formdaSQL_kullanımı_P1.csproj.GenerateResource.Cache
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\formdaSQL_kullanımı_P1\formdaSQL_kullanımı_P1\obj\Debug\formdaSQL_kullanımı_P1.exe
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\formdaSQL_kullanımı_P1\formdaSQL_kullanımı_P1\obj\Debug\formdaSQL_kullanımı_P1.pdb

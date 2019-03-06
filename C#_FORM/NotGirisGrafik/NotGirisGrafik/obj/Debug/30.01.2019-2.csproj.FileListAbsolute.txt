@@ -1,0 +1,18 @@
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\30.01.2019-2\30.01.2019-2\bin\Debug\30.01.2019-2.exe.config
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\30.01.2019-2\30.01.2019-2\bin\Debug\30.01.2019-2.exe
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\30.01.2019-2\30.01.2019-2\bin\Debug\30.01.2019-2.pdb
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\30.01.2019-2\30.01.2019-2\obj\Debug\30.01.2019-2.csprojResolveAssemblyReference.cache
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\30.01.2019-2\30.01.2019-2\obj\Debug\_30._01._2019_2.Form1.resources
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\30.01.2019-2\30.01.2019-2\obj\Debug\_30._01._2019_2.Properties.Resources.resources
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\30.01.2019-2\30.01.2019-2\obj\Debug\30.01.2019-2.csproj.GenerateResource.Cache
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\30.01.2019-2\30.01.2019-2\obj\Debug\30.01.2019-2.exe
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\30.01.2019-2\30.01.2019-2\obj\Debug\30.01.2019-2.pdb
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\Yeni klasör\30.01.2019-2\30.01.2019-2\bin\Debug\30.01.2019-2.exe.config
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\Yeni klasör\30.01.2019-2\30.01.2019-2\obj\Debug\30.01.2019-2.exe
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\Yeni klasör\30.01.2019-2\30.01.2019-2\obj\Debug\30.01.2019-2.pdb
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\Yeni klasör\30.01.2019-2\30.01.2019-2\bin\Debug\30.01.2019-2.exe
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\Yeni klasör\30.01.2019-2\30.01.2019-2\bin\Debug\30.01.2019-2.pdb
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\Yeni klasör\30.01.2019-2\30.01.2019-2\obj\Debug\30.01.2019-2.csprojResolveAssemblyReference.cache
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\Yeni klasör\30.01.2019-2\30.01.2019-2\obj\Debug\_30._01._2019_2.Form1.resources
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\Yeni klasör\30.01.2019-2\30.01.2019-2\obj\Debug\_30._01._2019_2.Properties.Resources.resources
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\Yeni klasör\30.01.2019-2\30.01.2019-2\obj\Debug\30.01.2019-2.csproj.GenerateResource.Cache

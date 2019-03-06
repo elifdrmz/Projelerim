@@ -1,0 +1,6 @@
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\14.01.2019\Ornekler\bin\Debug\Ornekler.exe.config
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\14.01.2019\Ornekler\bin\Debug\Ornekler.exe
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\14.01.2019\Ornekler\bin\Debug\Ornekler.pdb
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\14.01.2019\Ornekler\obj\Debug\Ornekler.csprojResolveAssemblyReference.cache
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\14.01.2019\Ornekler\obj\Debug\Ornekler.exe
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\14.01.2019\Ornekler\obj\Debug\Ornekler.pdb

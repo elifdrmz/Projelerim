@@ -1,0 +1,14 @@
+C:\Users\pc\source\repos\metot-hesap makinesi(elif)\metot-hesap makinesi(elif)\obj\Debug\metot-hesap makinesi(elif).csprojAssemblyReference.cache
+C:\Users\pc\source\repos\metot-hesap makinesi(elif)\metot-hesap makinesi(elif)\obj\Debug\metot-hesap makinesi(elif).csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\metot-hesap makinesi(elif)\metot-hesap makinesi(elif)\bin\Debug\metot-hesap makinesi(elif).exe.config
+C:\Users\pc\source\repos\metot-hesap makinesi(elif)\metot-hesap makinesi(elif)\bin\Debug\metot-hesap makinesi(elif).exe
+C:\Users\pc\source\repos\metot-hesap makinesi(elif)\metot-hesap makinesi(elif)\bin\Debug\metot-hesap makinesi(elif).pdb
+C:\Users\pc\source\repos\metot-hesap makinesi(elif)\metot-hesap makinesi(elif)\obj\Debug\metot-hesap makinesi(elif).exe
+C:\Users\pc\source\repos\metot-hesap makinesi(elif)\metot-hesap makinesi(elif)\obj\Debug\metot-hesap makinesi(elif).pdb
+C:\Users\pc\Desktop\Projelerimgiriş\C#\HesapMakinesi\metot-hesap makinesi(elif)\bin\Debug\metot-hesap makinesi(elif).exe.config
+C:\Users\pc\Desktop\Projelerimgiriş\C#\HesapMakinesi\metot-hesap makinesi(elif)\bin\Debug\metot-hesap makinesi(elif).exe
+C:\Users\pc\Desktop\Projelerimgiriş\C#\HesapMakinesi\metot-hesap makinesi(elif)\bin\Debug\metot-hesap makinesi(elif).pdb
+C:\Users\pc\Desktop\Projelerimgiriş\C#\HesapMakinesi\metot-hesap makinesi(elif)\obj\Debug\metot-hesap makinesi(elif).csprojAssemblyReference.cache
+C:\Users\pc\Desktop\Projelerimgiriş\C#\HesapMakinesi\metot-hesap makinesi(elif)\obj\Debug\metot-hesap makinesi(elif).csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Projelerimgiriş\C#\HesapMakinesi\metot-hesap makinesi(elif)\obj\Debug\metot-hesap makinesi(elif).exe
+C:\Users\pc\Desktop\Projelerimgiriş\C#\HesapMakinesi\metot-hesap makinesi(elif)\obj\Debug\metot-hesap makinesi(elif).pdb

@@ -1,0 +1,13 @@
+c:\users\elif.durmaz\documents\visual studio 2015\Projects\08.01.2019\Stack_tanimlama\bin\Debug\Stack_tanimlama.exe.config
+c:\users\elif.durmaz\documents\visual studio 2015\Projects\08.01.2019\Stack_tanimlama\bin\Debug\Stack_tanimlama.exe
+c:\users\elif.durmaz\documents\visual studio 2015\Projects\08.01.2019\Stack_tanimlama\bin\Debug\Stack_tanimlama.pdb
+c:\users\elif.durmaz\documents\visual studio 2015\Projects\08.01.2019\Stack_tanimlama\obj\Debug\Stack_tanimlama.csprojResolveAssemblyReference.cache
+c:\users\elif.durmaz\documents\visual studio 2015\Projects\08.01.2019\Stack_tanimlama\obj\Debug\Stack_tanimlama.exe
+c:\users\elif.durmaz\documents\visual studio 2015\Projects\08.01.2019\Stack_tanimlama\obj\Debug\Stack_tanimlama.pdb
+C:\Users\pc\Desktop\YAZILIM KURSU\ders uygulamaları\08.01.2019\Stack_tanimlama\bin\Debug\Stack_tanimlama.exe.config
+C:\Users\pc\Desktop\YAZILIM KURSU\ders uygulamaları\08.01.2019\Stack_tanimlama\bin\Debug\Stack_tanimlama.exe
+C:\Users\pc\Desktop\YAZILIM KURSU\ders uygulamaları\08.01.2019\Stack_tanimlama\bin\Debug\Stack_tanimlama.pdb
+C:\Users\pc\Desktop\YAZILIM KURSU\ders uygulamaları\08.01.2019\Stack_tanimlama\obj\Debug\Stack_tanimlama.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\YAZILIM KURSU\ders uygulamaları\08.01.2019\Stack_tanimlama\obj\Debug\Stack_tanimlama.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\YAZILIM KURSU\ders uygulamaları\08.01.2019\Stack_tanimlama\obj\Debug\Stack_tanimlama.exe
+C:\Users\pc\Desktop\YAZILIM KURSU\ders uygulamaları\08.01.2019\Stack_tanimlama\obj\Debug\Stack_tanimlama.pdb

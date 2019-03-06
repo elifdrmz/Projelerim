@@ -1,0 +1,6 @@
+c:\users\elif.durmaz\documents\visual studio 2015\Projects\2018_12_18_ondaliklisayilar\2018_12_18_ondaliklisayilar\bin\Debug\2018_12_18_ondaliklisayilar.exe.config
+c:\users\elif.durmaz\documents\visual studio 2015\Projects\2018_12_18_ondaliklisayilar\2018_12_18_ondaliklisayilar\obj\Debug\2018_12_18_ondaliklisayilar.csprojResolveAssemblyReference.cache
+c:\users\elif.durmaz\documents\visual studio 2015\Projects\2018_12_18_ondaliklisayilar\2018_12_18_ondaliklisayilar\bin\Debug\2018_12_18_ondaliklisayilar.exe
+c:\users\elif.durmaz\documents\visual studio 2015\Projects\2018_12_18_ondaliklisayilar\2018_12_18_ondaliklisayilar\bin\Debug\2018_12_18_ondaliklisayilar.pdb
+c:\users\elif.durmaz\documents\visual studio 2015\Projects\2018_12_18_ondaliklisayilar\2018_12_18_ondaliklisayilar\obj\Debug\2018_12_18_ondaliklisayilar.exe
+c:\users\elif.durmaz\documents\visual studio 2015\Projects\2018_12_18_ondaliklisayilar\2018_12_18_ondaliklisayilar\obj\Debug\2018_12_18_ondaliklisayilar.pdb

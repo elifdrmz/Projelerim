@@ -1,0 +1,6 @@
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\14.01.2019\Araba_ornegi\bin\Debug\Araba_ornegi.exe.config
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\14.01.2019\Araba_ornegi\bin\Debug\Araba_ornegi.exe
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\14.01.2019\Araba_ornegi\bin\Debug\Araba_ornegi.pdb
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\14.01.2019\Araba_ornegi\obj\Debug\Araba_ornegi.exe
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\14.01.2019\Araba_ornegi\obj\Debug\Araba_ornegi.pdb
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\14.01.2019\Araba_ornegi\obj\Debug\Araba_ornegi.csprojResolveAssemblyReference.cache

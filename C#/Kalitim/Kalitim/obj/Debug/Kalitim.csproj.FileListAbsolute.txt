@@ -1,0 +1,6 @@
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\Kalitim\Kalitim\bin\Debug\Kalitim.exe.config
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\Kalitim\Kalitim\bin\Debug\Kalitim.exe
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\Kalitim\Kalitim\bin\Debug\Kalitim.pdb
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\Kalitim\Kalitim\obj\Debug\Kalitim.csprojResolveAssemblyReference.cache
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\Kalitim\Kalitim\obj\Debug\Kalitim.exe
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\Kalitim\Kalitim\obj\Debug\Kalitim.pdb

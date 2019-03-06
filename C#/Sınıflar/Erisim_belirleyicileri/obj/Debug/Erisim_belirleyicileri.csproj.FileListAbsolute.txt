@@ -1,0 +1,6 @@
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\14.01.2019\Erisim_belirleyicileri\bin\Debug\Erisim_belirleyicileri.exe.config
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\14.01.2019\Erisim_belirleyicileri\bin\Debug\Erisim_belirleyicileri.exe
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\14.01.2019\Erisim_belirleyicileri\bin\Debug\Erisim_belirleyicileri.pdb
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\14.01.2019\Erisim_belirleyicileri\obj\Debug\Erisim_belirleyicileri.exe
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\14.01.2019\Erisim_belirleyicileri\obj\Debug\Erisim_belirleyicileri.pdb
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\14.01.2019\Erisim_belirleyicileri\obj\Debug\Erisim_belirleyicileri.csprojResolveAssemblyReference.cache

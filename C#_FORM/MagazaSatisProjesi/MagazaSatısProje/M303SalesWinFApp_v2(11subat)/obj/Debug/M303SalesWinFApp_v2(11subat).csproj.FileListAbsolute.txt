@@ -1,0 +1,50 @@
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\M303SalesWinFApp_v2(11subat)\M303SalesWinFApp_v2(11subat)\bin\Debug\M303SalesWinFApp_v2(11subat).exe.config
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\M303SalesWinFApp_v2(11subat)\M303SalesWinFApp_v2(11subat)\bin\Debug\M303SalesWinFApp_v2(11subat).exe
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\M303SalesWinFApp_v2(11subat)\M303SalesWinFApp_v2(11subat)\bin\Debug\M303SalesWinFApp_v2(11subat).pdb
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\M303SalesWinFApp_v2(11subat)\M303SalesWinFApp_v2(11subat)\obj\Debug\M303SalesWinFApp_v2(11subat).csprojResolveAssemblyReference.cache
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\M303SalesWinFApp_v2(11subat)\M303SalesWinFApp_v2(11subat)\obj\Debug\M303SalesWinFApp_v2_11subat_.Form1.resources
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\M303SalesWinFApp_v2(11subat)\M303SalesWinFApp_v2(11subat)\obj\Debug\M303SalesWinFApp_v2_11subat_.Form2.resources
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\M303SalesWinFApp_v2(11subat)\M303SalesWinFApp_v2(11subat)\obj\Debug\M303SalesWinFApp_v2_11subat_.Properties.Resources.resources
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\M303SalesWinFApp_v2(11subat)\M303SalesWinFApp_v2(11subat)\obj\Debug\M303SalesWinFApp_v2(11subat).csproj.GenerateResource.Cache
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\M303SalesWinFApp_v2(11subat)\M303SalesWinFApp_v2(11subat)\obj\Debug\M303SalesWinFApp_v2(11subat).exe
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\M303SalesWinFApp_v2(11subat)\M303SalesWinFApp_v2(11subat)\obj\Debug\M303SalesWinFApp_v2(11subat).pdb
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\gönder\M303SalesWinFApp_v2(11subat)\M303SalesWinFApp_v2(11subat)\bin\Debug\M303SalesWinFApp_v2(11subat).exe.config
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\gönder\M303SalesWinFApp_v2(11subat)\M303SalesWinFApp_v2(11subat)\obj\Debug\M303SalesWinFApp_v2(11subat).exe
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\gönder\M303SalesWinFApp_v2(11subat)\M303SalesWinFApp_v2(11subat)\obj\Debug\M303SalesWinFApp_v2(11subat).pdb
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\gönder\M303SalesWinFApp_v2(11subat)\M303SalesWinFApp_v2(11subat)\obj\Debug\M303SalesWinFApp_v2(11subat).csprojResolveAssemblyReference.cache
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\gönder\M303SalesWinFApp_v2(11subat)\M303SalesWinFApp_v2(11subat)\obj\Debug\M303SalesWinFApp_v2_11subat_.Properties.Resources.resources
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\gönder\M303SalesWinFApp_v2(11subat)\M303SalesWinFApp_v2(11subat)\obj\Debug\M303SalesWinFApp_v2(11subat).csproj.GenerateResource.Cache
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\gönder\M303SalesWinFApp_v2(11subat)\M303SalesWinFApp_v2(11subat)\bin\Debug\M303SalesWinFApp_v2(11subat).exe
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\gönder\M303SalesWinFApp_v2(11subat)\M303SalesWinFApp_v2(11subat)\bin\Debug\M303SalesWinFApp_v2(11subat).pdb
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\gönder\M303SalesWinFApp_v2(11subat)\M303SalesWinFApp_v2(11subat)\obj\Debug\M303SalesWinFApp_v2_11subat_.Login.resources
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\gönder\M303SalesWinFApp_v2(11subat)\M303SalesWinFApp_v2(11subat)\obj\Debug\M303SalesWinFApp_v2_11subat_.KayitEkrani.resources
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\gönder\M303SalesWinFApp_v2(11subat)\M303SalesWinFApp_v2(11subat)\obj\Debug\M303SalesWinFApp_v2_11subat_.KullaniciEkle.resources
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\gönder\M303SalesWinFApp_v2(11subat)\M303SalesWinFApp_v2(11subat)\obj\Debug\M303SalesWinFApp_v2_11subat_.KullaniciSil.resources
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\gönder\M303SalesWinFApp_v2(11subat)\M303SalesWinFApp_v2(11subat)\obj\Debug\M303SalesWinFApp_v2_11subat_.Kullanici_islem.resources
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\gönder\M303SalesWinFApp_v2(11subat)\M303SalesWinFApp_v2(11subat)\obj\Debug\M303SalesWinFApp_v2_11subat_.KullaniciGuncelle.resources
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\gönder\M303SalesWinFApp_v2(11subat)\M303SalesWinFApp_v2(11subat)\obj\Debug\M303SalesWinFApp_v2_11subat_.UrunEkle.resources
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\gönder\M303SalesWinFApp_v2(11subat)\M303SalesWinFApp_v2(11subat)\obj\Debug\M303SalesWinFApp_v2_11subat_.urunler_islem.resources
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\gönder\M303SalesWinFApp_v2(11subat)\M303SalesWinFApp_v2(11subat)\obj\Debug\M303SalesWinFApp_v2_11subat_.UrunSil.resources
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\gönder\M303SalesWinFApp_v2(11subat)\M303SalesWinFApp_v2(11subat)\obj\Debug\M303SalesWinFApp_v2_11subat_.UrunGuncelle.resources
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\gönder\M303SalesWinFApp_v2(11subat)\M303SalesWinFApp_v2(11subat)\obj\Debug\M303SalesWinFApp_v2_11subat_.Satis.resources
+C:\Users\pc\Desktop\proje\M303SalesWinFApp_v2(11subat)\M303SalesWinFApp_v2(11subat)\bin\Debug\M303SalesWinFApp_v2(11subat).exe.config
+C:\Users\pc\Desktop\proje\M303SalesWinFApp_v2(11subat)\M303SalesWinFApp_v2(11subat)\bin\Debug\M303SalesWinFApp_v2(11subat).exe
+C:\Users\pc\Desktop\proje\M303SalesWinFApp_v2(11subat)\M303SalesWinFApp_v2(11subat)\bin\Debug\M303SalesWinFApp_v2(11subat).pdb
+C:\Users\pc\Desktop\proje\M303SalesWinFApp_v2(11subat)\M303SalesWinFApp_v2(11subat)\obj\Debug\M303SalesWinFApp_v2(11subat).csprojAssemblyReference.cache
+C:\Users\pc\Desktop\proje\M303SalesWinFApp_v2(11subat)\M303SalesWinFApp_v2(11subat)\obj\Debug\M303SalesWinFApp_v2_11subat_.KullaniciGuncelle.resources
+C:\Users\pc\Desktop\proje\M303SalesWinFApp_v2(11subat)\M303SalesWinFApp_v2(11subat)\obj\Debug\M303SalesWinFApp_v2_11subat_.KullaniciSil.resources
+C:\Users\pc\Desktop\proje\M303SalesWinFApp_v2(11subat)\M303SalesWinFApp_v2(11subat)\obj\Debug\M303SalesWinFApp_v2_11subat_.Login.resources
+C:\Users\pc\Desktop\proje\M303SalesWinFApp_v2(11subat)\M303SalesWinFApp_v2(11subat)\obj\Debug\M303SalesWinFApp_v2_11subat_.KayitEkrani.resources
+C:\Users\pc\Desktop\proje\M303SalesWinFApp_v2(11subat)\M303SalesWinFApp_v2(11subat)\obj\Debug\M303SalesWinFApp_v2_11subat_.Kullanici_islem.resources
+C:\Users\pc\Desktop\proje\M303SalesWinFApp_v2(11subat)\M303SalesWinFApp_v2(11subat)\obj\Debug\M303SalesWinFApp_v2_11subat_.KullaniciEkle.resources
+C:\Users\pc\Desktop\proje\M303SalesWinFApp_v2(11subat)\M303SalesWinFApp_v2(11subat)\obj\Debug\M303SalesWinFApp_v2_11subat_.Properties.Resources.resources
+C:\Users\pc\Desktop\proje\M303SalesWinFApp_v2(11subat)\M303SalesWinFApp_v2(11subat)\obj\Debug\M303SalesWinFApp_v2_11subat_.Satis.resources
+C:\Users\pc\Desktop\proje\M303SalesWinFApp_v2(11subat)\M303SalesWinFApp_v2(11subat)\obj\Debug\M303SalesWinFApp_v2_11subat_.UrunEkle.resources
+C:\Users\pc\Desktop\proje\M303SalesWinFApp_v2(11subat)\M303SalesWinFApp_v2(11subat)\obj\Debug\M303SalesWinFApp_v2_11subat_.UrunGuncelle.resources
+C:\Users\pc\Desktop\proje\M303SalesWinFApp_v2(11subat)\M303SalesWinFApp_v2(11subat)\obj\Debug\M303SalesWinFApp_v2_11subat_.urunler_islem.resources
+C:\Users\pc\Desktop\proje\M303SalesWinFApp_v2(11subat)\M303SalesWinFApp_v2(11subat)\obj\Debug\M303SalesWinFApp_v2_11subat_.UrunSil.resources
+C:\Users\pc\Desktop\proje\M303SalesWinFApp_v2(11subat)\M303SalesWinFApp_v2(11subat)\obj\Debug\M303SalesWinFApp_v2(11subat).csproj.GenerateResource.cache
+C:\Users\pc\Desktop\proje\M303SalesWinFApp_v2(11subat)\M303SalesWinFApp_v2(11subat)\obj\Debug\M303SalesWinFApp_v2(11subat).csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\proje\M303SalesWinFApp_v2(11subat)\M303SalesWinFApp_v2(11subat)\obj\Debug\M303SalesWinFApp_v2(11subat).exe
+C:\Users\pc\Desktop\proje\M303SalesWinFApp_v2(11subat)\M303SalesWinFApp_v2(11subat)\obj\Debug\M303SalesWinFApp_v2(11subat).pdb
+C:\Users\pc\Desktop\proje\M303SalesWinFApp_v2(11subat)\M303SalesWinFApp_v2(11subat)\obj\Debug\M303SalesWinFApp_v2_11subat_.Stok.resources

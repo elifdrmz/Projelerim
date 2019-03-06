@@ -1,0 +1,6 @@
+c:\users\umit.karacivi\documents\visual studio 2015\Projects\PC_Abstract\PC_Abstract\bin\Debug\PC_Abstract.exe.config
+c:\users\umit.karacivi\documents\visual studio 2015\Projects\PC_Abstract\PC_Abstract\bin\Debug\PC_Abstract.exe
+c:\users\umit.karacivi\documents\visual studio 2015\Projects\PC_Abstract\PC_Abstract\bin\Debug\PC_Abstract.pdb
+c:\users\umit.karacivi\documents\visual studio 2015\Projects\PC_Abstract\PC_Abstract\obj\Debug\PC_Abstract.csprojResolveAssemblyReference.cache
+c:\users\umit.karacivi\documents\visual studio 2015\Projects\PC_Abstract\PC_Abstract\obj\Debug\PC_Abstract.exe
+c:\users\umit.karacivi\documents\visual studio 2015\Projects\PC_Abstract\PC_Abstract\obj\Debug\PC_Abstract.pdb

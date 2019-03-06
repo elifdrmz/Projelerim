@@ -1,0 +1,6 @@
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\14.01.2019\Sinif_metodlari_2\bin\Debug\Sinif_metodlari_2.exe.config
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\14.01.2019\Sinif_metodlari_2\bin\Debug\Sinif_metodlari_2.exe
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\14.01.2019\Sinif_metodlari_2\bin\Debug\Sinif_metodlari_2.pdb
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\14.01.2019\Sinif_metodlari_2\obj\Debug\Sinif_metodlari_2.csprojResolveAssemblyReference.cache
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\14.01.2019\Sinif_metodlari_2\obj\Debug\Sinif_metodlari_2.exe
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\14.01.2019\Sinif_metodlari_2\obj\Debug\Sinif_metodlari_2.pdb

@@ -1,0 +1,12 @@
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\2018_12_18_ondaliklisayilar\2018-12-20-Tür dönüsümü\bin\Debug\2018-12-20-Tür dönüsümü.exe.config
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\2018_12_18_ondaliklisayilar\2018-12-20-Tür dönüsümü\obj\Debug\2018-12-20-Tür dönüsümü.csprojResolveAssemblyReference.cache
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\2018_12_18_ondaliklisayilar\2018-12-20-Tür dönüsümü\bin\Debug\2018-12-20-Tür dönüsümü.exe
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\2018_12_18_ondaliklisayilar\2018-12-20-Tür dönüsümü\bin\Debug\2018-12-20-Tür dönüsümü.pdb
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\2018_12_18_ondaliklisayilar\2018-12-20-Tür dönüsümü\obj\Debug\2018-12-20-Tür dönüsümü.exe
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\2018_12_18_ondaliklisayilar\2018-12-20-Tür dönüsümü\obj\Debug\2018-12-20-Tür dönüsümü.pdb
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\17- .2018 uygulamalar\2018-12-20-Tür dönüsümü\bin\Debug\2018-12-20-Tür dönüsümü.exe.config
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\17- .2018 uygulamalar\2018-12-20-Tür dönüsümü\obj\Debug\2018-12-20-Tür dönüsümü.exe
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\17- .2018 uygulamalar\2018-12-20-Tür dönüsümü\obj\Debug\2018-12-20-Tür dönüsümü.pdb
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\17- .2018 uygulamalar\2018-12-20-Tür dönüsümü\bin\Debug\2018-12-20-Tür dönüsümü.exe
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\17- .2018 uygulamalar\2018-12-20-Tür dönüsümü\bin\Debug\2018-12-20-Tür dönüsümü.pdb
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\17- .2018 uygulamalar\2018-12-20-Tür dönüsümü\obj\Debug\2018-12-20-Tür dönüsümü.csprojResolveAssemblyReference.cache

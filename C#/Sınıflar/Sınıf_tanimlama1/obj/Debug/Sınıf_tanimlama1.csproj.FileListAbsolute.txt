@@ -1,0 +1,6 @@
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\14.01.2019\Sınıf_tanimlama1\bin\Debug\Sınıf_tanimlama1.exe.config
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\14.01.2019\Sınıf_tanimlama1\bin\Debug\Sınıf_tanimlama1.exe
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\14.01.2019\Sınıf_tanimlama1\bin\Debug\Sınıf_tanimlama1.pdb
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\14.01.2019\Sınıf_tanimlama1\obj\Debug\Sınıf_tanimlama1.csprojResolveAssemblyReference.cache
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\14.01.2019\Sınıf_tanimlama1\obj\Debug\Sınıf_tanimlama1.exe
+C:\Users\elif.durmaz\Documents\Visual Studio 2015\Projects\14.01.2019\Sınıf_tanimlama1\obj\Debug\Sınıf_tanimlama1.pdb
